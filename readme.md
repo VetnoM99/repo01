@@ -21,8 +21,10 @@ _ahora el visual studio code está vinculado a nivel de consola pero a nivel de 
     
     _al lado del nombre de la carpeta hay distintos botones_  
 
+
    ![Missing file](./img/carpeta%20botones%201.png "opciones para crear ")  
-   _utilizaremos la primera opción_
+   _utilizaremos la primera opción_  
+   
  ![Missing file](./img/carpeta%20botones%202.png "crear fichero ")  
  _se crea el readme.md_
  ![Missing file](./img/readme.png "readme.md ")  
